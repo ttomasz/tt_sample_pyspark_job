@@ -1,0 +1,9 @@
+*.pyc
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.ipynb
+*.txt
+raw_data/*.json
+raw_data/*.json.gz
+output_data/*parquet/
